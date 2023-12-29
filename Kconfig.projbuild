@@ -1,7 +1,7 @@
-menu "Component template Configuration"
+menu "Component drv_gpio Configuration"
 
-    config TEMPLATE_USE
-        bool "Use template component"
+    config DRV_GPIO_USE
+        bool "Use drv_gpio component"
         default y
         
 endmenu
